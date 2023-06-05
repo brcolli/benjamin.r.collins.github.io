@@ -1,58 +1,81 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://benjamin.r.collins.github.io`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Benjamin Collins',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Benjamin Collins Portfolio`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Software Engineering | Big Data Engineer`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@strypi_`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/brcolli`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/benjamin-collins-98931499/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Welcome to my page! I'm an experienced Software Engineer with a specialization in Data Engineering, Machine Learning, and Backend Development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Quordata',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Machine learning tools to collect social data across the internet, generate sentiment analysis, and produce actionable insights.',
+        link: 'https://github.com/Quordata/Quordata',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Quordata-Website',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Frontend web application for Quordata, interfacing with a MySQL database and an AWS cloud service backend to manage data.',
+        link: 'https://github.com/Quordata/Quordata-Website',
       },
       {
-        name: 'Another Cool Project',
+        name: 'StockTools',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Tools for stock trading and analysis. Collects stock data and uses machine learning algorithms plus backtesting to deliver strategies.',
+        link: 'https://github.com/brcolli/StockTools',
+      },
+	  {
+        name: 'SpaceSim',
+        description:
+          'Space simulator written in Unity. Created physics and collision detection system from scratch.',
+        link: 'https://github.com/brcolli/SpaceSim',
+      },
+	  {
+        name: 'NLP-Disaster-Tweets',
+        description:
+          'Natural Language Processing project. Uses tweets and machine learning to track natural disasters.',
+        link: 'https://github.com/brcolli/NLP-Disaster-Tweets',
+      },
+	  {
+        name: 'Spherical-Collision-Detection',
+        description:
+          'An implementation of a spherical collision detection using a broad and narrow approach. The broad approach is an example from NVIDIA\'s Spatial Subdivision implementation.',
+        link: 'https://github.com/brcolli/Spherical-Collision-Detection',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Quordata',
+        description: 'Chief Technology Engineer, June 2020 - Present',
+        link: 'https://www.quordata.com/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'The Boeing Company',
+        description: 'Flight Software Engineer, September 2018 - Present',
+		link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'The Boeing Company',
+        description: 'Full-Stack Developer, September 2017 - September 2018',
+		link: '',
+      },
+      {
+        name: 'University of Illinois at Urbana Champaign',
+        description: 'Support Developer, September 2013 - May 2017',
+		link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +83,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, C++, C#, C, Java, Golang, Django, Bottle, Web2Py, Flask, Aiohttp',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MySQL, SQLite, MongoDB, MariaDB',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Amazon Web Services (AWS), CI / CD, API design, Agile / Scrum, Docker',
       },
     ],
   },
