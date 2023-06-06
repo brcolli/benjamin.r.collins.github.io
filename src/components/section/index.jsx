@@ -5,7 +5,7 @@ const classes = {
   title: 'pb-6 md:w-full md:max-w-150 md:p-0',
   heading:
     'font-xs font-light tracking-widest text-sm text-gray-600 leading-normal uppercase',
-  content: 'flex-none text-lg text-gray-600 font-light md:flex-1 md:pl-20',
+  content: 'flex-none text-lg text-gray-600 font-light bg-white md:flex-1 md:pl-20',
 };
 
 const Section = ({ title, children }) => {
