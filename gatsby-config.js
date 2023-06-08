@@ -85,7 +85,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, C++, C#, C, Java, Golang, Django, Bottle, Web2Py, Flask, Aiohttp',
+          'Python, C++, C#, C, Java, R, MatLab, Django, Bottle, Web2Py, Flask, Aiohttp',
       },
       {
         name: 'Databases',
