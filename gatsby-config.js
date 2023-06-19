@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benjamin-collins-98931499/`,	
 	// Optional: Resume link
-	resume: `https://drive.google.com/file/d/1_bx_HRZPiVH0Y-bBpweMS8ysMLT6vjpc/view?usp=sharing`,
+	resume: `https://drive.google.com/file/d/1gppFTEjDsYcbBckPbzbfMFzgbEYbDdsT/view?usp=sharing`,
     // Content of the About Me section
     about: `Welcome to my page! I'm an experienced Software Engineer with a specialization in Data Engineering, Machine Learning, and Backend Development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
