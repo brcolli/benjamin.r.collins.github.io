@@ -33,6 +33,12 @@ module.exports = {
         link: 'https://github.com/Quordata/Quordata-Website',
       },
       {
+        name: 'CLogs',
+        description:
+          'A logging system to integrate with a scalable distributed system using Google Pub/Sub to subscribe and submit logs to BigQuery, through a Google Cloud Dataflow for real-time analytics.',
+        link: 'https://github.com/brcolli/CLogs',
+      },
+      {
         name: 'StockTools',
         description:
           'Tools for stock trading and analysis. Collects stock data and uses machine learning algorithms plus backtesting to deliver strategies.',
