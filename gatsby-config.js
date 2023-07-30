@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/brcolli`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/benjamin-collins-98931499/`,	
+    linkedin: `https://www.linkedin.com/in/benjamin-r-collins/`,	
 	// Optional: Resume link
 	resume: `https://drive.google.com/file/d/1gppFTEjDsYcbBckPbzbfMFzgbEYbDdsT/view?usp=sharing`,
     // Content of the About Me section
