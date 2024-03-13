@@ -71,9 +71,14 @@ module.exports = {
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
+	  {
+        name: 'CrowdSync',
+        description: 'Chief Technology Engineer, June 2023 - Present',
+        link: 'https://crowdsync.net/',
+      },
       {
         name: 'Quordata',
-        description: 'Chief Technology Engineer, June 2020 - Present',
+        description: 'Chief Technology Engineer, June 2020 - June 2023',
         link: 'https://www.quordata.com/',
       },
       {
@@ -97,7 +102,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, C++, C#, C, Java, R, MatLab, Django, Bottle, Web2Py, Flask, Aiohttp',
+          'Python, C++, C#, C, Java, R, MatLab, Django, Bottle, Web2Py, Flask',
       },
       {
         name: 'Databases',
@@ -106,7 +111,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Amazon Web Services (AWS), CI / CD, API design, Agile / Scrum, Docker',
+          'Amazon Web Services (AWS), Google Cloud, CI / CD, API design, Agile / Scrum, Docker',
       },
     ],
   },
