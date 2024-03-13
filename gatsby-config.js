@@ -20,6 +20,12 @@ module.exports = {
     about: `Welcome to my page! I'm an experienced Software Engineer with a specialization in Data Engineering, Machine Learning, and Backend Development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
+	  {
+        name: 'CrowdSync',
+        description:
+          'CrowdSync is a mobile app that allows users to easily discover valuable connections. We enable friction-free networking at events through an intuitive interface allowing you to quickly find and connect with the ‘right’ attendees.',
+        link: 'https://github.com/CrowdSyncApp/CrowdSync',
+      },
       {
         name: 'Quordata',
         description:
