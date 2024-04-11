@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benjamin-r-collins/`,	
 	// Optional: Resume link
-	resume: `https://drive.google.com/file/d/1f4ibhQtDa-pLiOHznvxGK4CxBvR7Sqzp/view?usp=sharing`,
+	resume: `https://drive.google.com/file/d/1877znQ6z6iEJPdEb_UAfF8bCdm8Gv0Hl/view?usp=sharing`,
     // Content of the About Me section
     about: `Welcome to my page! I'm an experienced Software Engineer with a specialization in Data Engineering, Machine Learning, and Backend Development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
@@ -106,16 +106,16 @@ module.exports = {
       },
       {
         name: 'Frameworks/Libraries',
-        description: 'Kubernetes, Keras, TensorFlow, PyTorch, React, React Native, sklearn, Hadoop, SciPy',
-      },
-      {
-        name: 'Databases',
-        description: 'MySQL, SQLite, MongoDB, DynamoDB',
+        description: 'Kubernetes, Keras, TensorFlow, PyTorch, React, React Native, Scikit-Learn, Hadoop, SciPy',
       },
       {
         name: 'Other',
         description:
           'AWS (KMS, Cognito, DynamoDB, Lambda), NLP, Kafka, GCP, Firebase, HuggingFace Transformers, BigQuery',
+      },
+      {
+        name: 'Databases',
+        description: 'MySQL, SQLite, MongoDB, DynamoDB',
       },
     ],
   },
