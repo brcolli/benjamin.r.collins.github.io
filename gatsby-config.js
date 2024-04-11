@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benjamin-r-collins/`,	
 	// Optional: Resume link
-	resume: `https://drive.google.com/file/d/1Pz3tsBSNw687lQUeE1Iv9pjW61h52Fj6/view?usp=sharing`,
+	resume: `https://drive.google.com/file/d/1f4ibhQtDa-pLiOHznvxGK4CxBvR7Sqzp/view?usp=sharing`,
     // Content of the About Me section
     about: `Welcome to my page! I'm an experienced Software Engineer with a specialization in Data Engineering, Machine Learning, and Backend Development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
@@ -73,7 +73,7 @@ module.exports = {
     experience: [
 	  {
         name: 'CrowdSync',
-        description: 'Chief Technology Engineer, June 2023 - Present',
+        description: 'Chief Technology Engineer, June 2023 - March 2024',
         link: 'https://crowdsync.net/',
       },
       {
@@ -102,16 +102,20 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, C++, C#, C, Java, R, MatLab, Django, Bottle, Web2Py, Flask',
+          'Python, C++, C\#, C, Java, MATLAB, R, Haskell, SQL, HTML/CSS, Bash, Rust, JavaScript, Verilog, Ruby, Assembly (MIPS, x86)',
+      },
+      {
+        name: 'Frameworks/Libraries',
+        description: 'Kubernetes, Keras, TensorFlow, PyTorch, React, React Native, sklearn, Hadoop, SciPy',
       },
       {
         name: 'Databases',
-        description: 'MySQL, SQLite, MongoDB, MariaDB',
+        description: 'MySQL, SQLite, MongoDB, DynamoDB',
       },
       {
         name: 'Other',
         description:
-          'Amazon Web Services (AWS), Google Cloud, CI / CD, API design, Agile / Scrum, Docker',
+          'AWS (KMS, Cognito, DynamoDB, Lambda), NLP, Kafka, GCP, Firebase, HuggingFace Transformers, BigQuery',
       },
     ],
   },
